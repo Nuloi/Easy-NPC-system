@@ -1,0 +1,6 @@
+main: Main
+version: 0.1
+name: "Test_plugin"
+api-version: 1.16
+commands:
+  test:
